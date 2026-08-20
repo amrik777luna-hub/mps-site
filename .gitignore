@@ -1,0 +1,6 @@
+# Claude Code local tooling (dev-server config, not part of the site)
+.claude/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
